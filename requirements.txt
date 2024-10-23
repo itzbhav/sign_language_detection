@@ -1,6 +1,7 @@
 tensorflow
 setuptools
-streamlit-webrtc opencv-python
+streamlit-webrtc 
+opencv-python
 numpy
 pandas
 matplotlib
