@@ -1,6 +1,6 @@
 tensorflow
 setuptools
-opencv-python-headless
+streamlit-webrtc opencv-python
 numpy
 pandas
 matplotlib
