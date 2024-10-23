@@ -23,7 +23,7 @@ google-pasta==0.2.0
 grpcio==1.67.0
 h5py==3.11.0
 idna==3.10
-jax==0.4.34
+jax==0.4.13
 jaxlib==0.4.34
 Jinja2==3.1.4
 joblib==1.4.2
