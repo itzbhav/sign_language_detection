@@ -9,5 +9,4 @@ cvzone
 keras
 Pillow
 seaborn
-pytorch
 protobuf
